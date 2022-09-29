@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputName {
+    margin-bottom: 20px;
+    margin-left: 40px;
+    
+}
+
+.inputNumber {
+    margin-bottom: 20px;
+    margin-left: 24px;
+}
+
+.btn {
+    width: 100px;
+}
